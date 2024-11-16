@@ -1,4 +1,5 @@
 {
-    "clientVersionCode": 2,
-    "URL_CLIENT": "http://45.141.26.186/launcher.apk",
+    "url_launcher": "https://127.0.0.1/app-debug.apk",
+    "version_launcher": "1.0.0",
+    "url_game": "http://45.141.26.186/fliesjson.json"
 }
