@@ -1,5 +1,27 @@
 {
-    "url_launcher": "https://127.0.0.1/app-debug.apk",
-    "version_launcher": "1.0.0",
-    "url_game": "http://45.141.26.186/fliesjson.json"
+
+    "clientVersionCode": 1,
+
+    "clientSampVersionCode": 1,
+
+    "gameFilesVersionCode": 3,
+
+    "URL_GAME_FILES" : "http://45.141.26.186/game.zip",
+
+    "URL_GAME_FILES_UPD" : "http://45.141.26.186/game_",
+
+    "URL_VK": "https://vk.com/",
+
+    "URL_DISCORD": "https://discord.gg/",
+
+    "URL_YOUTUBE": "",
+
+    "URL_FORUM": "",
+
+    "URL_DONATE": "",
+
+    "URL_CLIENT": "http://45.141.26.186/launcher.apk",
+
+    "URL_CLIENTSAMPAPK": "http://45.141.26.186/client.apk"
+
 }
